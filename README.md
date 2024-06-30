@@ -1,6 +1,6 @@
 # RetainIQ_Assignment :-
 
-This project is a dynamic table management system built with Next.js. It allows users to add and delete rows (states) and columns (variants) with file upload functionality for each variant in the table. The table structure can be managed dynamically with features such as adding filters to each row.
+This project is built with Next.js. It allows users to add and delete rows (states) and columns (variants) with file upload functionality for each variant in the table. The table structure can be managed dynamically with features such as adding filters to each row.
 
 #Features :
 1) Dynamic Row Management: Add and delete rows (states).
